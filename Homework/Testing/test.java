@@ -22,8 +22,7 @@ public class test {
         temp1.remove(2);
         System.out.println(temp1.get(2));
         System.out.println(name.length());
-        name = name.trim();
-        System.out.println(name.length());
+
 
 
     }
