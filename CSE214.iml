@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Homework/HW1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Homework/HW2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Homework/HW5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Homework/HW3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Homework/HW4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Homework/HW6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Homework/HW7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Homework/Testing" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="json-simple-1.1.1" level="project" />
+  </component>
+</module>
